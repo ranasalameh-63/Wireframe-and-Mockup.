@@ -5,7 +5,7 @@ Here's a sample `README.md` for your coffee house project with at least five mar
 
 # ☕ Coffee House
 
-Welcome to **MAVI Coffee House – your one-stop destination for premium coffee and delightful sweets. Whether you're a coffee aficionado or have a sweet tooth, we’ve got something for everyone.
+Welcome to **MAVI** Coffee House – your one-stop destination for premium coffee and delightful sweets. Whether you're a coffee aficionado or have a sweet tooth, we’ve got something for everyone.
 
 ---
 
