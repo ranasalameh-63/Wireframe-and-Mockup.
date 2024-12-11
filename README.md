@@ -41,4 +41,4 @@ Follow us on social media for updates and specials!
 Enjoy your coffee journey with us! ☕✨
 
 ---
-[Figma design](https://www.figma.com/design/a8drYK40yT6lhfRr4x4IFi/School-website?node-id=0-1&node-type=canvas&t=E8rQwE7S5hDAT5RK-0](https://www.figma.com/design/WxpTELruSe2BtMMyq3qofp/Coffee-House?node-id=0-1&t=kPv71errQ5bBwZ6c-1))
+[Figma design](https://www.figma.com/design/WxpTELruSe2BtMMyq3qofp/Coffee-House?node-id=0-1&t=5b0g47hDbe96huyF-1))
